@@ -1,0 +1,58 @@
+div {
+  background-color: lightblue;
+  display: inline-block;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+  display: block;
+}
+
+body {
+  margin: 0;
+  display: block;
+}
+
+h1 {
+  margin-top: 0;
+  display: block;
+  text-align: center;
+}
+
+.first-container {
+  background-color: lightblue;
+  width: auto;
+  height: auto;
+  text-align: center;
+  padding-left: 20px;
+  display: block;
+}
+
+.middle-container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin-top: 200px;
+}
+
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.cloud1 {
+  display: inline-block;
+}
+
+.cloud2 {
+  display: inline-block;
+  margin-bottom: 600px;
+}
+
+.mountain {
+  display: inline-block;
+  margin-bottom: 400px;
+  margin-right: 90px;
+}
